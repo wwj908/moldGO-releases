@@ -1,1 +1,4 @@
-v1.0.1
+tag=v1.0.2
+asset=moldgo-linux-amd64-v1.0.2
+target=linux/amd64
+cgo=0
