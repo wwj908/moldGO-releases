@@ -1,4 +1,4 @@
-tag=v1.0.2
-asset=moldgo-linux-amd64-v1.0.2
+tag=v1.0.3
+asset=moldgo-linux-amd64-v1.0.3
 target=linux/amd64
 cgo=0
