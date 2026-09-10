@@ -9,6 +9,14 @@
         "fix: apply filter option search immediately",
         "涉及文件：cmd/moldgo/web/app.js、cmd/moldgo/web/style.css"
       ]
+    },
+    {
+      "version": "v1.0.17",
+      "asset": "moldgo-linux-amd64-v1.0.17",
+      "publishedAt": "2026-09-10T01:31:06Z",
+      "changes": [
+        "发布版本 v1.0.17"
+      ]
     }
   ]
 }
