@@ -29,6 +29,14 @@
         "fix: allow signed optical prescription values",
         "涉及文件：cmd/moldgo/main.go、cmd/moldgo/main_test.go、cmd/moldgo/mother.go、cmd/moldgo/mother_test.go、cmd/moldgo/web/app.js、cmd/moldgo/web/index.html、cmd/moldgo/web/mother.js、cmd/moldgo/web/style.css、file/母片库存系统 (1) (1).xlsx、file/母片库存系统.xlsx、outputs/20260917-moldGO-cleaned/母片库存系统_整理版.xlsx"
       ]
+    },
+    {
+      "version": "v1.0.20",
+      "asset": "moldgo-linux-amd64-v1.0.20",
+      "publishedAt": "2026-09-24T01:15:59Z",
+      "changes": [
+        "涉及文件：cmd/moldgo/web/mother.js、deploy/deployUITool/release_core.py"
+      ]
     }
   ]
 }
