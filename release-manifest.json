@@ -37,6 +37,14 @@
       "changes": [
         "涉及文件：cmd/moldgo/web/mother.js、deploy/deployUITool/release_core.py"
       ]
+    },
+    {
+      "version": "v1.0.21",
+      "asset": "moldgo-linux-amd64-v1.0.21",
+      "publishedAt": "2026-09-24T01:23:54Z",
+      "changes": [
+        "涉及文件：deploy/deployUITool/app.py、deploy/deployUITool/release_core.py"
+      ]
     }
   ]
 }
