@@ -53,6 +53,14 @@
       "changes": [
         "涉及文件：deploy/deployUITool/release_core.py"
       ]
+    },
+    {
+      "version": "v1.0.23",
+      "asset": "moldgo-linux-amd64-v1.0.23",
+      "publishedAt": "2026-09-24T03:18:35Z",
+      "changes": [
+        "涉及文件：cmd/moldgo/mother.go、cmd/moldgo/web/mother.js、cmd/moldgo/web/style.css、outputs/mother-audit-log-data-20260924.sql、outputs/mother-audit-log-schema-20260924.sql、outputs/mother-stock-schema-data-20260924.sql"
+      ]
     }
   ]
 }
