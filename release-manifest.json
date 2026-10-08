@@ -69,6 +69,16 @@
       "changes": [
         "涉及文件：cmd/moldgo/web/app.js、cmd/moldgo/web/mother.js"
       ]
+    },
+    {
+      "version": "v1.0.25",
+      "asset": "moldgo-linux-amd64-v1.0.25",
+      "publishedAt": "2026-10-08T05:23:00Z",
+      "changes": [
+        "feat: add API key management and mother stock workflows",
+        "涉及文件：README.md、cmd/moldgo/main.go、cmd/moldgo/main_test.go、cmd/moldgo/mother.go、cmd/moldgo/mother_test.go、cmd/moldgo/web/app.js、cmd/moldgo/web/index.html、cmd/moldgo/web/mother.js、cmd/moldgo/web/style.css、docs/2026-09-24_security-quality-moldgo-report.md、docs/project-function-guide.html、moldgo.exe~",
+        "以及其他 1 个文件"
+      ]
     }
   ]
 }
